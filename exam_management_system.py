@@ -2,11 +2,6 @@
 =====================================================================
 AL-2002 PROJECT 2026 - MODULE 3: Unsupervised Learning
 Automated Exam Management System using K-Means Clustering
-
-FIX: Shift system added — all students get a seat across 3 shifts.
-     No student is left on waiting list.
-
-Student ID: 24F-0806
 =====================================================================
 """
 
