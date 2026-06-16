@@ -1,11 +1,11 @@
-# 📋 Automated Exam Management System
+# Automated Exam Management System
 
 **AI2002 — Artificial Intelligence | Module 3: Unsupervised Learning**
-FAST-NUCES Chiniot-Faisalabad | Roll No: 24F-0806
+
 
 ---
 
-## 📌 Description
+## Description
 
 An automated exam seating and faculty allocation system that uses **K-Means Clustering** to intelligently group students by domain and batch, then assigns them to exam halls across **3 shifts** (Morning, Evening, Night). Every student is guaranteed a seat — no waiting list.
 
@@ -13,7 +13,7 @@ Includes a full **Tkinter GUI dashboard** for visualization.
 
 ---
 
-## 🧠 AI Technique Used
+## AI Technique Used
 
 | Technique | Description |
 |-----------|-------------|
@@ -23,7 +23,7 @@ Includes a full **Tkinter GUI dashboard** for visualization.
 
 ---
 
-## ✨ Features
+## Features
 
 - Generates **1,800+ student records** across 5 domains and 5 batches
 - Determines optimal K using the Elbow Method
@@ -38,7 +38,7 @@ Includes a full **Tkinter GUI dashboard** for visualization.
 
 ---
 
-## 🏫 Domains Covered
+## Domains Covered
 
 - Computer Science
 - Artificial Intelligence
@@ -48,7 +48,7 @@ Includes a full **Tkinter GUI dashboard** for visualization.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Install dependencies
 ```bash
@@ -69,20 +69,7 @@ The program will:
 
 ---
 
-## 📁 Project Structure
-
-```
-Exam-Management-System/
-├── exam_management_system_M3.py   # Main source code
-├── requirements.txt               # Dependencies
-├── seating_plan.csv               # Auto-generated after run
-├── faculty_allocation.csv         # Auto-generated after run
-└── .gitignore
-```
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.x
 - NumPy, Pandas
@@ -92,6 +79,6 @@ Exam-Management-System/
 
 ---
 
-## 📄 License
+## License
 
 MIT License
